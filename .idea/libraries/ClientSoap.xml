@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="clientSoap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../clientSoap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
